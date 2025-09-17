@@ -40,7 +40,7 @@
         </a>
         <!-- Java -->
         <a href="https://github.com/adonispujols?tab=repositories" target="_blank"><img alt="Java"
-                        src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+                        src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
         </a>
 </p>
 
